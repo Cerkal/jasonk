@@ -1,0 +1,40 @@
+{
+    "phone": "123-123-1234",
+    "fax": "123-123-1234",
+    "email": "jason.kollias@email.com",
+    "site": "Jason Kollias",
+    "fullName": "Jason Kollias",
+    "name": "Description of website",
+    "address": {
+        "street": "123 Fake Street",
+        "city": "Brooklyn",
+        "state": "New York",
+        "zip": "11226" 
+    },
+    "links": [
+        {
+            "name": "Home",
+            "link": "/"
+        },
+        {
+            "name": "Websites",
+            "link": "/websites"
+        },
+        {
+            "name": "Landing Pages",
+            "link": "/landing"
+        },
+        {
+            "name": "Scripts",
+            "link": "/scripts"
+        },
+        {
+            "name": "Games",
+            "link": "/games"
+        },
+        {
+            "name": "About",
+            "link": "/about"
+        }
+    ]
+}
